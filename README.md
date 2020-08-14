@@ -1,0 +1,2 @@
+# myjavaSEDemo
+Java basics usage
